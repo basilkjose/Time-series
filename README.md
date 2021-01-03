@@ -1,2 +1,2 @@
 ## TIME SERIES
-[simple lstm time series forecasting](test_dir)
+[simple lstm time series forecasting](Time-series)
