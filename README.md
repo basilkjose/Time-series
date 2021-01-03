@@ -1,4 +1,3 @@
 ## TIME SERIES
 
- [mynotebook](subfolder/Time-series/simple lstm time series forecastin\g)
-
+ [This is a relative link to a nested file](testfolder/testfile.txt)
