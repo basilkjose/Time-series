@@ -1,3 +1,3 @@
 ## TIME SERIES
-[mynotebook](subfolder/mynotebook.ipynb)
+[mynotebook](Time-series/simple lstm time series forecasting/)
 
